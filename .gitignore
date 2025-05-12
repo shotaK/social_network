@@ -1,0 +1,8 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+social_network_api/social_network_venv
